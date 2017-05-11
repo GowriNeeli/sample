@@ -8,3 +8,6 @@
 * Reproducible Search
 * Statistical inference
 * Regression models
+
+Git is easy. Git is fun. Thanks Linus!
+
